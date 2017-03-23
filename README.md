@@ -3,7 +3,7 @@ MTA/NYCT's stops.txt file was modified to include a column indicating if station
 
 Added two columnns:
 
-Column 1: "ada_tc"
+Column K: "ada_tc"
  "1" indicates stop_id's that are ADA accessible (i.e. street level or has an elevator)
  "0" indicates the stop is non-ADA accessible 
  
@@ -11,7 +11,7 @@ Column 1: "ada_tc"
 
   In some cases (roughly 6 or 7 cases) a station will only be ADA accessible going one direction. For example, stop 109S (Dyckman St) is marked as being ADA compliant while 109N is not. This is because the northbound side of that station is not ADA accessible.
  
-Column 2: "out_of_service_tc"
+Column L: "out_of_service_tc"
  "1" indicates stations that are long-term out of service, such as South Ferry on the 1 line or Brooklyn Bridge City Hall on the 456
  "0" means the station is operating
 
