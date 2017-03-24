@@ -1,6 +1,8 @@
 # MTA-GTFS-ADA-Subway-Stations
 MTA/NYCT's stops.txt file was modified to include a column indicating if stations are ADA accessible.
 
+Please let me know if you use this dataset - I'm working on a broad project on NYC's subway accessibility so would like to see what people can do with this.
+
 Added two columnns:
 
 Column K: "ada_tc"
